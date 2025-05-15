@@ -1,0 +1,14 @@
+C:\Users\Andrei\OneDrive\Desktop\C project\bin\Debug\net8.0\C project.exe
+C:\Users\Andrei\OneDrive\Desktop\C project\bin\Debug\net8.0\C project.deps.json
+C:\Users\Andrei\OneDrive\Desktop\C project\bin\Debug\net8.0\C project.runtimeconfig.json
+C:\Users\Andrei\OneDrive\Desktop\C project\bin\Debug\net8.0\C project.dll
+C:\Users\Andrei\OneDrive\Desktop\C project\bin\Debug\net8.0\C project.pdb
+C:\Users\Andrei\OneDrive\Desktop\C project\obj\Debug\net8.0\C project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrei\OneDrive\Desktop\C project\obj\Debug\net8.0\C project.AssemblyInfoInputs.cache
+C:\Users\Andrei\OneDrive\Desktop\C project\obj\Debug\net8.0\C project.AssemblyInfo.cs
+C:\Users\Andrei\OneDrive\Desktop\C project\obj\Debug\net8.0\C project.csproj.CoreCompileInputs.cache
+C:\Users\Andrei\OneDrive\Desktop\C project\obj\Debug\net8.0\C project.dll
+C:\Users\Andrei\OneDrive\Desktop\C project\obj\Debug\net8.0\refint\C project.dll
+C:\Users\Andrei\OneDrive\Desktop\C project\obj\Debug\net8.0\C project.pdb
+C:\Users\Andrei\OneDrive\Desktop\C project\obj\Debug\net8.0\C project.genruntimeconfig.cache
+C:\Users\Andrei\OneDrive\Desktop\C project\obj\Debug\net8.0\ref\C project.dll
